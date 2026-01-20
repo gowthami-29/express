@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1768898526124,
+      "name": "gowthami",
+      "age": 34,
+      "martial": "single"
+    },
+    {
+      "id": 1768898602219,
+      "name": "aj",
+      "age": 54,
+      "martial": "married"
+    },
+    {
+      "id": 1768898628524,
+      "name": "joshna",
+      "age": 54,
+      "martial": "married"
+    },
+    {
+      "id": 1768898653165,
+      "name": "sravani",
+      "age": 24,
+      "martial": "married"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1768899048159,
+      "name": "suga",
+      "prof": "rap",
+      "age": 31
+    },
+    {
+      "id": 1768899087923,
+      "name": "taehyaung",
+      "prof": "dancer",
+      "age": 30
+    },
+    {
+      "id": 1768899109159,
+      "name": "jungkook",
+      "prof": "singer",
+      "age": 28
+    },
+    {
+      "id": 1768899155877,
+      "name": "jhope",
+      "prof": "visual",
+      "age": 32
+    }
+  ]
+}
